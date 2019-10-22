@@ -79,7 +79,6 @@ function fb_shortcode_func( $atts ) {
 			return $button;
 		}
 	}
-	exit;
 
 }
 
